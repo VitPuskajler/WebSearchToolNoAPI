@@ -1,4 +1,4 @@
-# WebSearchToolNoAPI
+# 🛻 WebSearchToolNoAPI
 
 ## Purpose
 - ** Mini project for job interview
